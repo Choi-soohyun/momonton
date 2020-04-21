@@ -2,9 +2,9 @@
 A clone of the productivity chrome app [Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca) on Vanilla JS
 
 ## Features
-<input type="checkbox" checked> Clock
-[] To Do List
-[] Weather
-[] Daily Quote
-[] Daily Photo
-[] Offline Support
+[x] Clock
+[x] To Do List
+[x] Weather
+[ ] Daily Quote
+[x] Daily Photo
+[x] Offline Support
